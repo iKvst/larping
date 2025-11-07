@@ -1,5 +1,5 @@
 --[[
-    skidded by kast
+    skidded by yours truly <3
 ]]
 
 -- //
