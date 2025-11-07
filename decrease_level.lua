@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 local petid = 123456790
 local level = 1337
 local petsToAttackOfLevelAbove = 200e6
