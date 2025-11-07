@@ -9,7 +9,7 @@ local COMPACT_MESSAGES = false
 local MOBILE_FRIENDLY = true
 local ONLY_30_PERCENT = true
 local TAG_EVERYONE = true
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1363102927228506122/gy8pmhvATGeGdwqLySIErgFwjPMMzbPQmjWvRDNUrz0PzePI0lAdlIN31_aMlGlFmCrQ"
+local WEBHOOK_URL = " "
 local AVATAR_THUMBNAIL = "https://www.roblox.com/headshot-thumbnail/image?userId=%d&width=420&height=420&format=png"
 local OVERCAP_THRESHOLD = 1.30
 local MIN_OVERCAP = 300000
