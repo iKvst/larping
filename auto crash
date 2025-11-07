@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 game:GetService("StarterGui"):SetCore("SendNotification",{Title="Ultra Speed Loaded",Text="Optimized by fearyourdestiny. Running...",Icon="rbxassetid://12345678",Duration=3})
 
 local p,lp,t,h=game:GetService("Players"),game.Players.LocalPlayer,game:GetService("TeleportService"),game:GetService("HttpService")
