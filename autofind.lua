@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 --// Services
 local TeleportService = game:GetService("TeleportService")
 local HttpService = game:GetService("HttpService")
