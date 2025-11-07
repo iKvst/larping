@@ -20,7 +20,7 @@ H.Text = 'Finding another server'
 
 function notify(M)
 	game.StarterGui:SetCore("SendNotification", {
-		Title = "tar's dupe v"..Ver,
+		Title = "kast's dupe v"..Ver,
 		Text = M,
 		Duration = 5
 	})
@@ -234,7 +234,7 @@ do  -- // GUI
 		G2L["3"]["BackgroundTransparency"] = 1;
 		G2L["3"]["Size"] = UDim2.new(1, 0, 0, 50);
 		G2L["3"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-		G2L["3"]["Text"] = [[tar's dupe v]]..Ver;
+		G2L["3"]["Text"] = [[kast's dupe v]]..Ver;
 		G2L["3"]["Name"] = [[titlelabel]];
 
 
@@ -914,7 +914,7 @@ do  -- // GUI
 	repeat wait() until ready
 end
 
-H.Text = "tar's dupe v" .. Ver .. " | [1/4] Teleporting to a different server"
+H.Text = "kast's dupe v" .. Ver .. " | [1/4] Teleporting to a different server"
 
 local looool = nil
 
