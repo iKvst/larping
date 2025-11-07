@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 for _,v in pairs(workspace.__REMOTES.Core['Get Stats']:InvokeServer().Save.Pets)do
   if v.e then
     task.spawn(function()
