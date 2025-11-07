@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 function add(frame)
 	if frame:isA'Frame' then
 		if frame:FindFirstChild'TextButton' then
