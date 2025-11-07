@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 local dir = require(game.ReplicatedStorage['1 | Directory']).Pets
 
 local fn = function(number)
