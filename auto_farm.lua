@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 --[[ Instructions
 
 stop script: [ _G.FARMING = false ]
