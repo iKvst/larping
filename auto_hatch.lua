@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 local getOnlyOne = true
 local Hat = 'Robux'
 --//
