@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 -- Accounts need to be in-game
 
 local accounts = {'ROBLOX','Guest','Admin'}
