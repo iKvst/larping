@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 local tradeId=0
 local lastupdate=nil
 local h = Instance.new('Hint', workspace)
