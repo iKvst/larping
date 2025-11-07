@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 Name = "MustBe>2And<16"
 
 for _, pet in pairs(workspace.__REMOTES.Core["Get Stats"]:InvokeServer().Save.Pets) do
