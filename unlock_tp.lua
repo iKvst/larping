@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 local Players = game:GetService("Players")
 local pl = Players.LocalPlayer
 
