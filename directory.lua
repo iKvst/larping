@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
 -- Directory as of February 01, 2019
 {
     PremiumPets = {
