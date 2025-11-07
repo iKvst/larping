@@ -1,3 +1,9 @@
+--[[
+    skidded by yours truly <3
+]]
+
+-- //
+
  local Settings = {
     DeleteClientUpdater = true,
     Combine = false,
